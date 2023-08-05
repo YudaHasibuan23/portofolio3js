@@ -1,13 +1,13 @@
 # 3D PORTFOLIO
 
-**[Live demo](https://mdamiruddin-3dportfolio.vercel.app)**
+**[Live demo](https://yudahasibuan23.vercel.app/)**
 
-This is the modification of **[Bokoko33's Portfolio](https://bokoko33.me/)** Website Code. Please do not use this exact idea,
-but feel free to use it as a starting point/inspiration.
+Ini adalah modifikasi dari **[Bokoko33's Portfolio](https://bokoko33.me/)** Kode situs web. Tolong jangan gunakan ide yang tepat ini,
+tetapi jangan ragu untuk menggunakannya sebagai titik awal/inspirasi.
 
-![Home page screenshot](public/social/screenshot.png?raw=true "Home page screenshot")
+![Home page screenshot](public/social/uhitled.JPG?raw=true "Home page screenshot")
 
-## For Setup
+## Untuk Setup
 
 ```
 npm install
